@@ -3,15 +3,15 @@ h1 {
   font-weight: Normal;
   font-size: 50px;
   color: white;
-  text-align: center;
+  text-align: Center;
 }
 a {
-  color: aquamarine
+  color: Aquamarine
   font-size: 16px;
 }
 body {
-  background-color: black;
-  text-align: center;
+  background-color: Black;
+  text-align: Center;
 }
 h2 {
   font-family: Verdana;
@@ -25,5 +25,5 @@ p {
 }
 .footer{
   text-align: right;
-  color: gray;
+  color: Gray;
 }
